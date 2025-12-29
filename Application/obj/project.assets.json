@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tanne\\OneDrive\\Documents\\ResumeGenerator\\Application\\Application.csproj",
+      "projectUniqueName": "c:\\Users\\tanne\\OneDrive\\Documents\\ResumeGenerator\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "C:\\Users\\tanne\\OneDrive\\Documents\\ResumeGenerator\\Application\\Application.csproj",
+      "projectPath": "c:\\Users\\tanne\\OneDrive\\Documents\\ResumeGenerator\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\tanne\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tanne\\OneDrive\\Documents\\ResumeGenerator\\Application\\obj\\",
+      "outputPath": "c:\\Users\\tanne\\OneDrive\\Documents\\ResumeGenerator\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tanne\\AppData\\Roaming\\NuGet\\NuGet.Config"
